@@ -2,9 +2,8 @@
 - 👀 I’m interested in ...making Websites and Android Apps
 - 🌱 I’m currently learning ...Flutter
 - 💞️ I’m looking to collaborate on ...Github
-- 📫 How to reach me ...
-- 😄 Pronouns: ...He
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ...He/him
+
 
 <!---
 PrithvijitBose/PrithvijitBose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
