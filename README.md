@@ -45,7 +45,8 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://github.com/PrithvijitBose/Prithvijit-Bose/assets/136217645/00649289-8963-49e3-b363-9587429dc956" />
+  <img alt="snake eating my contributions" src="![image](https://github.com/user-attachments/assets/0eca1880-d2c0-488a-9c06-e672fe6b325c)
+" />
   
   <br/><br/><br/>
 </div>
