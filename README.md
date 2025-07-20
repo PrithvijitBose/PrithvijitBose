@@ -10,7 +10,7 @@
 
 <div align="center">
   
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Data Science**
 
 - 👯 I’m looking to collaborate on [Github](https://github.com/PrithvijitBose)
 
