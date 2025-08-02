@@ -1,72 +1,45 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=PrithvijitBose.PrithvijitBose" />
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prithvijit+Bose!;" />
-</h1>
+<br />
 
-<h3 align="center">A passionate Software Engineer</h3>
+I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
-<br/>
+**About me**
 
-<div align="center">
-  
-- 🌱 I’m currently learning **Data Science**
+- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
 
-- 👯 I’m looking to collaborate on [Github](https://github.com/PrithvijitBose)
+- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
 
-- 👨‍💻 All of my projects are available at [https://github.com/PrithvijitBose](https://github.com/PrithvijitBose)
+- ❤️ I love writing TypeScript, and building fun experiments on type-level
 
-- 💬 Ask me about **React and Flutter**
+- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
- </div>
- 
-<div align="center"> 
-  <a href="prithvijitb18@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/prithvijit-bose-44381726b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-
-</div>
-
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,firebase,mongodb,c,java,mysql" /><br>
-</div>
-
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
- ## Contributions in the last year
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=PrithvijitBose&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-    
-  <br/>
- 
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrithvijitBose&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
 
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a>
+
+<br />
+<br />
+
+<a href="https://twitter.com/anuraghazru">
+  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
