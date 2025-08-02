@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Github**
 
-- 👨‍💻 All of my projects are available at [https://github.com/PrithvijitBose](https://github.com/PrithvijitBose)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/PrithvijitB)
 
 - 📫 How to reach me **prithvijitb18@gmail.com**
 
