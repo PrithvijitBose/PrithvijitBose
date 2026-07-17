@@ -6,7 +6,7 @@
 
 > *"Building software that people can use, improving software that everyone can use."*
 
-<img src="./assets/banner.gif" width="850" alt="Banner"/>
+<img src="banner.gif" alt="Website banner" width="500" height="1000">
 
 </div>
 
