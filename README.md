@@ -1,157 +1,55 @@
-<div align="center">
-
-# Prithvijit Bose
-
-### Open Source Contributor • Generative AI Developer • Python Developer
-
-> *"Building software that people can use, improving software that everyone can use."*
-
-<img src="banner.gif" alt="Website banner" width="500" height="1000">
-
-</div>
-
----
-
-## About Me
-
-<img align="right" src="./assets/coding.gif" width="300"/>
-
-I'm **Prithvijit Bose**, a developer from India passionate about **Generative AI**, **Python**, and **Open Source**.
-
-Most of my work revolves around building intelligent applications powered by Large Language Models while contributing to projects that improve the open-source ecosystem.
-
-Rather than treating AI as a black box, I enjoy understanding the engineering behind it—from retrieval pipelines and local inference to reproducible workflows and developer tooling.
-
-I believe the best engineers don't just build software—they improve the software other developers build upon.
-
----
-
-## What You'll Find Here
-
-```text
-📦 Open Source Contributions
-🤖 Generative AI Applications
-🐍 Python Projects
-🧠 RAG & Local LLM Experiments
-⚙️ AI Developer Tools
-```
-
----
-
-## My Focus
-
-<table>
-<tr>
-<td width="50%">
-
-### Open Source
-
-* Contributing meaningful code
-* Fixing bugs
-* Reviewing code
-* Improving documentation
-* Collaborating with maintainers
-
-</td>
-
-<td width="50%">
-
-### Generative AI
-
-* Large Language Models
-* Retrieval-Augmented Generation
-* AI Automation
-* Local AI Systems
-* Developer Productivity
-
-</td>
-</tr>
-</table>
-
----
-
-## Engineering Principles
-
-```python
-mission = {
-    "Build": "Software with real-world impact",
-    "Contribute": "Projects that help developers",
-    "Improve": "One pull request at a time",
-    "Share": "Knowledge through code"
-}
-```
-
----
-
-## Open Source Philosophy
-
-> Open source isn't just about writing code.
-
-It's about making software better than you found it.
-
-Whether it's fixing a bug, reviewing code, improving documentation, or building a feature from scratch, every contribution strengthens the ecosystem.
-
----
-
-## Tech Stack
-
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,ts,git,github,vscode,linux,fastapi&perline=7"/>
-
-</p>
-
----
-
-## GitHub Analytics
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.shion.dev/api?username=PrithvijitBose&show_icons=true&theme=github_dark"/>
-
-<img width="48%" src="https://streak-stats.demolab.com?user=PrithvijitBose&theme=github-dark"/>
-
+  <a href="https://github.com/PrithvijitBose">
+    <img
+      src="https://capsule-render.vercel.app/api?type=transparent&font=Great%20Vibes&fontColor=FFFF&fontSize=54&height=90&width=922&text=Hello!%20I'm%20Prithvijit%20Bose"
+      alt="Hello! I'm Prithvijit Bose"
+    />
+  </a>
 </p>
 
 <p align="center">
-
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=PrithvijitBose&theme=github-compact"/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=900&height=44&lines=Building%20software%20that%20people%20can%20use%2C%20improving%20software%20that%20everyone%20can%20use." alt="Typing headlines" />
 </p>
 
----
 
-## Beyond Code
-
-When I'm not contributing or building AI applications, you'll probably find me
-
-* Exploring new open-source projects
-* Reading engineering blogs
-* Experimenting with LLM workflows
-* Designing ideas for developer tools
-
----
-
-## Let's Connect
 
 <p align="center">
-
-<a href="mailto:prithvijitb18@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/prithvijit-bose-7984b921a/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=4000&pause=1000&color=3FB950&center=true&vCenter=true&width=720&lines=%24+Currently+building+a+Multi-Agent+System;%24+Learning+Agentic+AI;%24+AI+Models+%7C+LLMs+%7C+Python;%24+Always+building+something+new..." alt="Typing SVG" />
 </p>
 
----
+<br>
+<br>
+<h2 align="center">⚒️ Tech Stack</h2>
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,fastapi,tailwind,numpy,pandas,git,github,vscode,vercel&perline=7" />
+</p>
+<br>
+<br>
 
-### Thanks for visiting.
+<h2 align="center">🌐 Connect With Me</h2>
 
-*"Every repository tells part of the story. Feel free to explore mine."*
+<p align="center">
+  <a href="https://www.linkedin.com/in/prithvijit-bose-7984b921a">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:prithvijitb18@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
-</div>
+
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=PrithvijitBose&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=PrithvijitBose&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
+
+
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PrithvijitBose&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
+
+<p align="center"><i>⭐️ From <a href="https://github.com/PrithvijitBose">PrithvijitBose</a></i></p>
