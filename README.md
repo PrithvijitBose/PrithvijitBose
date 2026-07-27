@@ -45,7 +45,7 @@ I'm a software engineer who likes building things that start as a rough idea and
 
 <h2 align="center">🚀 Featured Work</h2>
 <p align="center">
-<i>A few projects I'm proud of — swap these in with your own repos, descriptions, and live links.</i>
+<i>A few projects I'm proud of </i>
 </p>
 
 <table align="center" width="100%">
