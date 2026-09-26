@@ -41,29 +41,7 @@ I'm a software engineer who likes building things that start as a rough idea and
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,fastapi,tailwind,numpy,pandas,git,github,vscode,vercel&perline=7" />
 </p>
 
----
 
-<h2 align="center">🚀 Featured Work</h2>
-<p align="center">
-<i>A few projects I'm proud of </i>
-</p>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 Multi-Agent Orchestration System</h3>
-      <p>A framework for coordinating multiple LLM-driven agents on complex, multi-step tasks — planning, delegation, and tool use in one pipeline.</p>
-      <code>Python</code> · <code>LLMs</code> · <code>FastAPI</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📌 Project Two</h3>
-      <p>Short description of what it does and why it matters — one or two sentences is plenty.</p>
-      <code>Stack</code> · <code>Stack</code> · <code>Stack</code>
-    </td>
-  </tr>
-</table>
-
----
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
@@ -75,9 +53,7 @@ I'm a software engineer who likes building things that start as a rough idea and
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrithvijitBose&theme=tokyonight&hide_border=true&background=00000000&ring=2ea043&fire=2ea043&currStreakLabel=2ea043" alt="streak stats" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PrithvijitBose&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
+
 
 ---
 
